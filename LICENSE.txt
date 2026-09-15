@@ -1,0 +1,7 @@
+Copyright (c) 2026 Brian Maobe Onyancha
+
+All rights reserved.
+
+This repository is a portfolio demonstration. Viewing and evaluating the project is permitted. Redistribution, resale, repackaging, or claiming the work as your own is not permitted without written permission from the copyright holder.
+
+The included dataset is sample/demo data.
